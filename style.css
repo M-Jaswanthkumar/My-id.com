@@ -35,6 +35,10 @@ A {
   Background-attachment: fixed;
 
 }
+.logo{
+  height: 30px;
+  width: 30px;
+}
 
 Nav {
 
@@ -50,7 +54,7 @@ Nav {
 
 .Logo {
 
-  Max-Height: 60px;
+  Max-Height: 10px;
 
 }
 
