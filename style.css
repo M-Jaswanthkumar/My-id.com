@@ -29,6 +29,10 @@ A {
   Background: Url(bg.jpg);
 
   Background-Size: Cover;
+  
+  Background-repeat: no-repeat;
+  
+  Background-attachment: fixed;
 
 }
 
