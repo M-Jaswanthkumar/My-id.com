@@ -21,14 +21,11 @@ A {
 }
 
 .Hero {
+  width: 100vw;
 
-  Width: 100%;
+  background-image: Url(bg.jpg);
 
-  Height: 100vh;
-
-  Background: Url(bg.jpg);
-
-  Background-Size: Cover;
+  /* Background-Size: Cover; */
   
   Background-repeat: no-repeat;
   
